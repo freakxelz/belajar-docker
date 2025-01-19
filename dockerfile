@@ -1,4 +1,4 @@
-FROM golang:nanoserver-1809
+FROM golang
 
 COPY main.go /app/main.go
 
